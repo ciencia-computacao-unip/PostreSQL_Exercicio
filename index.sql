@@ -18,5 +18,16 @@ create table Catalogo (
 	CodForn integer,
 	CodPe integer,
 	Preco numeric(2)
+};
 
-}
+insert into fornecedores set (1,'Alberto','Rua 3, 44');
+insert into fornecedores set (2,'Maria','Rua 44, 3');
+insert into fornecedores set (3,'Josefa','Av. Ramalho, 334');
+insert into fornecedores set (4,'Paulo','Rua Irmã Serafina 303');
+insert into fornecedores set (5,'Ana','Av. Fo. Glicério 33');
+insert into fornecedores set (6,'Wilson','Rua 32, 45 apto 4');
+insert into fornecedores set (7,'Bete','Av. Sete de Setembro, 88');
+insert into fornecedores set (8,'Daniel','Rua 32 , 444, apto 2');
+insert into fornecedores set (9,'Graziela','Av. Sul 245 apto. 42');
+insert into fornecedores set (10,'Eduardo','Rua Jardim Botânico 779');
+
