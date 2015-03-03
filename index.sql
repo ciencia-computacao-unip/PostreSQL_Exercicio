@@ -31,3 +31,15 @@ insert into fornecedores set (8,'Daniel','Rua 32 , 444, apto 2');
 insert into fornecedores set (9,'Graziela','Av. Sul 245 apto. 42');
 insert into fornecedores set (10,'Eduardo','Rua Jardim Botânico 779');
 
+insert into fornecedores set (1, 'Copo Grande', 'Azul');
+insert into fornecedores set (2, 'Copo Grande', 'Vermelho');
+insert into fornecedores set (3, 'Copo Pequeno', 'Vermelho');
+insert into fornecedores set (4, 'Copo Pequeno', 'Verde');
+insert into fornecedores set (5, 'Prato grande', 'Amarelo');
+insert into fornecedores set (6, 'Prato pequeno', 'Amarelo');
+insert into fornecedores set (7, 'Garfo de plástico', 'Vermelho');
+insert into fornecedores set (8, 'Garfo de plástico', 'Verde');
+insert into fornecedores set (9, 'Faca de plástico', 'Vermelho');
+insert into fornecedores set (10, 'Faca de plástico', 'Branco');
+insert into fornecedores set (11, 'Garfo de metal', 'Verde');
+insert into fornecedores set (12, 'Garfo de metal', 'Amarelo');
