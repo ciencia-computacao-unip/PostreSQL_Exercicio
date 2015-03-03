@@ -17,6 +17,6 @@ create table Pecas (
 create table Catalogo (
 	CodForn integer,
 	CodPe integer,
-	Preco money,
+	Preco numeric(2)
 
 }
