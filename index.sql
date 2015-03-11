@@ -18,7 +18,7 @@ create table Catalogo (
 	CodForn integer,
 	CodPe integer,
 	Preco numeric(2)
-};
+);
 
 insert into Fornecedores set (1,'Alberto','Rua 3, 44');
 insert into Fornecedores set (2,'Maria','Rua 44, 3');
