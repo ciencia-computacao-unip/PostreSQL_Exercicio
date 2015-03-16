@@ -7,7 +7,7 @@ create table Fornecedores (
 
 create table Pecas (
 	CodPe integer,
-	NomePe varchar(50) unique,
+	NomePe varchar(50),
 	Cor ENUM ('Azul', 'Vermelho', 'Verde','Amarelo', 'Branco'),
 	PRIMARY key(CodPe)
 );
